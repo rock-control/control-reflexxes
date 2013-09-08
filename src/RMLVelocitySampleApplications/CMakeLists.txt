@@ -1,0 +1,8 @@
+add_executable(velocity_sample04 04_RMLVelocitySampleApplication.cpp)
+target_link_libraries(velocity_sample04 reflexxes)
+add_executable(velocity_sample05 05_RMLVelocitySampleApplication.cpp)
+target_link_libraries(velocity_sample05 reflexxes)
+add_executable(velocity_sample06 06_RMLVelocitySampleApplication.cpp)
+target_link_libraries(velocity_sample06 reflexxes)
+add_executable(velocity_sample08 08_RMLVelocitySampleApplication.cpp)
+target_link_libraries(velocity_sample08 reflexxes)

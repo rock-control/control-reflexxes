@@ -1,0 +1,8 @@
+add_executable(position_sample01 01_RMLPositionSampleApplication.cpp)
+target_link_libraries(position_sample01 reflexxes)
+add_executable(position_sample02 02_RMLPositionSampleApplication.cpp)
+target_link_libraries(position_sample02 reflexxes)
+add_executable(position_sample03 03_RMLPositionSampleApplication.cpp)
+target_link_libraries(position_sample03 reflexxes)
+add_executable(position_sample07 07_RMLPositionSampleApplication.cpp)
+target_link_libraries(position_sample07 reflexxes)

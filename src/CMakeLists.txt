@@ -1,0 +1,3 @@
+add_subdirectory(TypeIIRML)
+add_subdirectory(RMLPositionSampleApplications)
+add_subdirectory(RMLVelocitySampleApplications)
